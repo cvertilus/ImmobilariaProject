@@ -1,0 +1,27 @@
+:root {
+ 
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --mono: ui-monospace, Consolas, monospace;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  --backgroundColorNavBar: gray;
+  --colorIconNavBar: blue ;
+  --backgroundColorButtonImportant: linear-gradient(45deg, #1976d2, #42a5f5);
+
+}
+
+
+
+
+
+
+
+
+
+
